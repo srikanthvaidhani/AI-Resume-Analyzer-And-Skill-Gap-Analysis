@@ -32,7 +32,7 @@
      </small>
   </p>
   <small align="justify">🚀 A Project Submitted for the partial fulfilment of the degree B.Tech DS at 
-    <a href="https://kirticollege.edu.in/">Pragati Engineering College</a> during academic year 2025-26
+    <a href="https://kirticollege.edu.in/">Pragati Engineering College</a> during academic year 2025-2026
   </small>
 </div><br/><br/>
 
