@@ -31,8 +31,8 @@
       <a href="https://www.linkedin.com/in/mrbriit/">Dr Bright --(Data Scientist)</a>
      </small>
   </p>
-  <small align="justify">🚀 A Project Submitted for the partial fulfilment of the degree B.sc CS at 
-    <a href="https://kirticollege.edu.in/">Kirti College</a> during academic year 2022-23
+  <small align="justify">🚀 A Project Submitted for the partial fulfilment of the degree B.Tech DS at 
+    <a href="https://kirticollege.edu.in/">Pragati Engineering College</a> during academic year 2025-26
   </small>
 </div><br/><br/>
 
@@ -73,7 +73,7 @@ Want to explore AI-powered resume analysis without setting up this project local
 - 🔥 Resume Roast for resume feedback
 - 🎯 Interview practice and job preparation
 
-**🎁 Offer:** Use code `DEEPAK10` for 10% off eligible paid plans.
+**🎁 Offer:** Use code `Sri10` for 10% off eligible paid plans.
 
 <sub>Disclosure: CVInsight is an independent platform. This is an optional partner recommendation and does not affect the availability of this open-source project.</sub>
 
